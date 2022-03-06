@@ -36,12 +36,19 @@ alcohol :   Percent of alcohol present in wine.
 
 For the next step we have to import some important library :
 ## steps
+
 improt the data 
+
 clean data 
+
 split the data into training set / testset means some wine for train some for test
+
 create a model with decison tree
+
 create a model
+
 train the model
+
 make prediction
 then evaluate
 
