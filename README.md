@@ -1,7 +1,5 @@
 # Wine-quality-prediction
-## project flow
-![](![image](https://user-images.githubusercontent.com/86155266/156920873-1687c389-e836-47a7-a28e-d91333dd6482.png)
-)
+
 ## The project goal is to predict the quality of wine using chemical parameter.
 
 > Use Kaggle’s Red Wine Quality dataset to build various classification models to predict whether a particular red wine is “good quality” or not. Each wine in this dataset is given a “quality” score between 0 and 10. 
@@ -37,3 +35,13 @@ alcohol :   Percent of alcohol present in wine.
 > Rather than chemical features, you can see that there is one feature named Type it contains the types of wine we here discuss on red and white wine, the percent of red wine is greater than white.
 
 For the next step we have to import some important library :
+> steps
+improt the data 
+clean data 
+split the data into training set / testset means some wine for train some for test
+create a model with decison tree
+create a model
+train the model
+make prediction
+then evaluate
+
