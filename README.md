@@ -35,7 +35,7 @@ alcohol :   Percent of alcohol present in wine.
 > Rather than chemical features, you can see that there is one feature named Type it contains the types of wine we here discuss on red and white wine, the percent of red wine is greater than white.
 
 For the next step we have to import some important library :
-> steps
+## steps
 improt the data 
 clean data 
 split the data into training set / testset means some wine for train some for test
