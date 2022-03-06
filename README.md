@@ -10,47 +10,48 @@ The objectives is to determine which features are the most good quality of wine.
 
 > In the dataset, you can see that several features will be used to classify the quality of wine, many of them are chemical.
 
-volatile acidity :   Volatile acidity is the gaseous acids present in wine.
+           - volatile acidity :   Volatile acidity is the gaseous acids present in wine.
 
-fixed acidity :   Primary fixed acids found in wine are tartaric, succinic, citric, and malic
+           - fixed acidity :   Primary fixed acids found in wine are tartaric, succinic, citric, and malic
 
-residual sugar :   Amount of sugar left after fermentation.
+           - residual sugar :   Amount of sugar left after fermentation.
 
-citric acid :    It is weak organic acid, found in citrus fruits naturally.
+           - citric acid :    It is weak organic acid, found in citrus fruits naturally.
 
-chlorides :   Amount of salt present in wine.
+           - chlorides :   Amount of salt present in wine.
 
-free sulfur dioxide :   So2 is used for prevention of wine by oxidation and microbial spoilage.
+           - free sulfur dioxide :   So2 is used for prevention of wine by oxidation and microbial spoilage.
 
-total sulfur dioxide 
+           - total sulfur dioxide 
 
-pH :   In wine pH is used for checking acidity
+           - pH :   In wine pH is used for checking acidity
 
-density
+           - density
 
-sulphates :    Added sulfites preserve freshness and protect wine from oxidation, and bacteria.
+           - sulphates :    Added sulfites preserve freshness and protect wine from oxidation, and bacteria.
 
-alcohol :   Percent of alcohol present in wine.
+           - alcohol :   Percent of alcohol present in wine.
 
 > Rather than chemical features, you can see that there is one feature named Type it contains the types of wine we here discuss on red and white wine, the percent of red wine is greater than white.
 
 For the next step we have to import some important library :
 ## steps
 
-improt the data 
+    1. improt the data 
 
-clean data 
+    2. clean data 
 
-split the data into training set / testset means some wine for train some for test
+    3. split the data into training set / testset means some wine for train some for test
 
-create a model with decison tree
+    4. create a model with decison tree
 
-create a model
+    5. create a model
 
-train the model
+    6. train the model
 
-make prediction
-then evaluate
+    7. make prediction
+
+    8. then evaluate
 
 ## Random Forest Algorithm
 ![](https://miro.medium.com/max/875/0*YEwFetXQGPB8aDFV)
