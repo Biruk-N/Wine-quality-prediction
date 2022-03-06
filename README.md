@@ -11,6 +11,7 @@ The objectives is to determine which features are the most good quality of wine.
 volatile acidity :   Volatile acidity is the gaseous acids present in wine.
 fixed acidity :   Primary fixed acids found in wine are tartaric, succinic, citric, and malic
 residual sugar :   Amount of sugar left after fermentation.
+
 citric acid :    It is weak organic acid, found in citrus fruits naturally.
 chlorides :   Amount of salt present in wine.
 free sulfur dioxide :   So2 is used for prevention of wine by oxidation and microbial spoilage.
