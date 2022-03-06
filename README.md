@@ -53,4 +53,4 @@ make prediction
 then evaluate
 
 ## Random Forest Algorithm
-![](https://miro.medium.com/max/1400/1*hmtbIgxoflflJqMJ_UHwXw.jpeg)
+![](https://miro.medium.com/max/875/0*YEwFetXQGPB8aDFV)
