@@ -37,7 +37,7 @@ The objectives is to determine which features are the most good quality of wine.
 For the next step we have to import some important library :
 ## steps
 
-    1. improt the data 
+    1. import the data 
 
     2. clean data 
 
